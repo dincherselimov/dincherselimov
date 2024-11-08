@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m a web developer with a strong focus on backend development.<br>⚙️ My primary tools are Symfony, Laravel, Docker, and Kubernetes.<br>🚀 Currently on a dedicated 3-month path to becoming a full-stack developer.<br>🤝 I’m a strong communicator and thrive in collaborative environments.<br>🏐 Outside of tech, I’m also an avid volleyball player.<br><br>
+👨‍💻 I’m a web developer with a strong focus on backend development.<br>⚙️ My primary tools are Symfony, Laravel, Docker, and Kubernetes.<br>🚀 I follow a structured learning approach, starting a new skill focus every 3 months to continuously expand my expertise..<br>🤝 I’m a strong communicator and thrive in collaborative environments.<br>🏐 Outside of tech, I’m also an avid volleyball player.<br><br>
 
 
 ## 🌐 Socials:
